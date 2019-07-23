@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Jane",
+        "gender": "Male",
+        "age": 23,
+        "pets": [
+            {
+                "name": "Cookie",
+                "type": "Cat"
+            },
+            {
+                "name": "Oscar",
+                "type": "Dog"
+            }
+        ]
+    },
+    {
+        "name": "Bob",
+        "gender": "Male",
+        "age": 32,
+        "pets": [
+            {
+                "name": "Buddy",
+                "type": "Dog"
+            },
+            {
+                "name": "Fido",
+                "type": "Dog"
+            }
+        ]
+    }
+]

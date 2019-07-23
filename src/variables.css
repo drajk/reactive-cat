@@ -4,6 +4,11 @@
     --grey: #282c34;
     --aqua: #61dafb;
 
+    /* Font styles */
+    --primary: Arial, Helvetica, sans-serif;
+    --secondary: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+
     /* Font sizes */
-    --normal: calc(10px + 2vmin);
+    --normal: 20px;
+    --small: 14px;
 }
