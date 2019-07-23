@@ -1,0 +1,9 @@
+:root {
+    /* Colors */
+    --white: #fff;
+    --grey: #282c34;
+    --aqua: #61dafb;
+
+    /* Font sizes */
+    --normal: calc(10px + 2vmin);
+}
